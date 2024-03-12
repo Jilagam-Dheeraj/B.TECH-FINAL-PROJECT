@@ -2,7 +2,7 @@
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/Dheeraj-CSE/SENTIMENT-ANALYSIS.git
+git clone https://github.com/Dheeraj-CSE/B.TECH-FINAL-PROJECT.git
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
